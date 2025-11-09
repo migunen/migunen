@@ -1,0 +1,3 @@
+id,name,popularity,duration_ms,danceability,energy,valence,tempo
+demo1,"Track 1",15,273563,0.414,0.350,0.568,139.6
+demo2,"Track 2",84,195786,0.370,0.115,0.832,104.1
